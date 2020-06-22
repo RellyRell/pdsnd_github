@@ -16,4 +16,4 @@ I utilized data from the following sources:
 - chicago.csv
 
 ## Project Review
-This project was an excellent practice in exploring the data analytics field through python. 
+This project was an excellent practice in exploring the data analytics field through python.
