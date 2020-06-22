@@ -1,8 +1,8 @@
 import time
 import pandas as pd
 import numpy as np
-#Adding comment for completion
-# Importing CSV data 
+# Adding comment for completion
+# Importing CSV data
 CITY_DATA = { 'chicago' : 'chicago.csv',
               'new york' : 'new_york_city.csv',
               'washington' :  'washington.csv' }
