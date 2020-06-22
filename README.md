@@ -15,7 +15,8 @@ I utilized data from the following sources:
 - new_york_city.csv
 - chicago.csv
 
-
+## Project Review
+This project was an excellent practice in exploring the data analytics field through python. 
 
 
 ### Date created
