@@ -1,7 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
-# This project was created in order to meet the requirements for the Udacity Data Anayltics Course
+# Adding comment for completion
 # Importing CSV data
 CITY_DATA = { 'chicago' : 'chicago.csv',
               'new york' : 'new_york_city.csv',
