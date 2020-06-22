@@ -16,20 +16,4 @@ I utilized data from the following sources:
 - chicago.csv
 
 ## Project Review
-This project was an excellent practice in exploring the data analytics field through python. 
-
-
-### Date created
-Include the date you created this project and README file.
-
-### Project Title
-Replace the Project Title
-
-### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project was an excellent practice in exploring the data analytics field through python.
